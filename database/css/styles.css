@@ -1,0 +1,45 @@
+#container{
+		width: 1124px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 20px;	
+}
+
+#imageContent{
+		width: 1024px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 20px;	
+}
+
+.thumbnail {
+	height:62px;
+	width:102px;
+}
+
+
+#accordion h3{
+	width:100%
+	/*border: 1px solid #fff;*/
+	background-color: #C6CDD0;
+/*	font: 16px/24px arial;*/
+	padding:10px;
+	margin:2px;
+}
+
+
+.C0A76A5 {
+	border:2px solid #0A76A5;
+	font: 16px/24px arial;
+	background-color: #e6e7e8;
+
+
+}
+
+.C0E8A16 {
+	border:2px solid #0E8A16;
+	font: 16px/24px arial;
+	background-color: #e6e7e8;
+
+
+}
