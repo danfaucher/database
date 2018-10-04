@@ -36,7 +36,7 @@
     } else {
       //create new entry
       //echo ("variable is ".$fileExists);
-        //echo ("beet");
+        //echo ("beets are tasty");
       //return 'Available';
       // image file directory
       $target = "images/".basename($file);
