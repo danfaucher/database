@@ -27,7 +27,7 @@
       // execute query
       //mysqli_query($db, $sql);
       if (move_uploaded_file($_FILES['image']['tmp_name'], $target)) {
-        $msg = "Image uploaded successfully";
+        $msg = "Image uploaded moderatery succesfully";
       }else{
         $msg = "Failed to upload image";
       }
