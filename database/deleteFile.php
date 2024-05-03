@@ -1,7 +1,7 @@
 <?php
 $file = $_POST['file'];
 
-$conn=mysqli_connect("localhost","tvo","polkaroo","course_art");
+$db = mysqli_connect("localhost", "groot", "doot", "images");
 // Check connection
 if ($conn->connect_error) {
   die("Connection failed: " . $conn->connect_error);

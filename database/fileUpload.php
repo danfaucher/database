@@ -1,6 +1,6 @@
 <?php
   // Create database connection
-  $db = mysqli_connect("localhost", "tvo", "polkaroo", "course_art");
+  $db = mysqli_connect("localhost", "groot", "doot", "images");
   // Initialize message variable
 
   // Upload

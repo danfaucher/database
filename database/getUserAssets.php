@@ -1,5 +1,5 @@
 <?php
-$con=mysqli_connect("localhost","tvo","polkaroo","course_art");
+$con=mysqli_connect("localhost","groot","doot","images");
 // Check connection
 if (mysqli_connect_errno())
 {
